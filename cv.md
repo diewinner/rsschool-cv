@@ -24,7 +24,7 @@ function sum (a,b) {
 
 ## Experience
  I recently started programming. I love playing games and learning new things.
-
+ > the samurai has no goal, there is a way
 
 ## Education
 * Bachelor, Kazan Federal University, Kazan
